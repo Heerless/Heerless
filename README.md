@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 📚 Undergraduate at UOWM Computer Science<br>- ⚡ In my free time I honing my expertise and computer skills</p>
+<p align="left">- 📚 Undergraduate at UOWM Computer Science<br>- ⚡ In my free time I'm honing my expertise and computer skills</p>
 
 ###
 
